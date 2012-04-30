@@ -5,7 +5,7 @@ Schemeで爆撃しようではないか！
 
 使い方
 ------
-	% fav
+	% favom
 	target> omegatakuma
 	[1]:爆撃
 	[2]:爆撃
